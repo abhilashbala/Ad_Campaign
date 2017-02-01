@@ -1,0 +1,5 @@
+com\infy\AdCampaign\entity\AdCampaign.class
+com\infy\AdCampaign\service\AdCampaignServiceImpl.class
+com\infy\AdCampaign\service\AdCampaignService.class
+com\infy\AdCampaign\controller\AdCampaignController.class
+com\infy\AdCampaign\Application.class
